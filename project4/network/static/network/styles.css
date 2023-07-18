@@ -1,0 +1,20 @@
+#following-h2{
+    text-align: center
+}
+
+#following-page-hero{
+    text-align: center;
+    font-size: larger;
+}
+#hero-right{
+    display: inline;
+    text-align: center;
+   
+    padding-right:6em
+}
+
+#hero-left{
+    display: inline;
+    text-align: center;
+   
+}
